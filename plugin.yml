@@ -1,0 +1,7 @@
+---
+name: JustVanilla
+version: canary
+main: Vanilla\Main
+api: 5.1.2
+src-namespace-prefix: Vanilla
+...
